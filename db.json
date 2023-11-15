@@ -129,38 +129,5 @@
         "proizvoditel": "Россия"
       }
     }
-  ],
-  "promo": {
-    "image": "https://i.ibb.co/wMMBKYY/promoitem.png",
-    "bgImage": "https://i.ibb.co/wRfFxcS/bg.jpg",
-    "discount": "15%",
-    "label": "Весна",
-    "description": "Дарим весеннюю скидку по кодовому слову"
-  },
-  "categories": [
-    {
-      "name": "armchairs",
-      "label": "Кресла",
-      "image": null,
-      "count": null
-    },
-    {
-      "name": "beds",
-      "label": "Кровати",
-      "image": "https://i.ibb.co/CwRnKHQ/beds.png",
-      "count": 2
-    },
-    {
-      "name": "Прямые диваны",
-      "label": "Кресла",
-      "image": "https://i.ibb.co/cwz22tf/straightsofa.png",
-      "count": 2
-    },
-    {
-      "name": "cornerSofas",
-      "label": "Угловые диваны",
-      "image": "https://i.ibb.co/vzQ5p2S/cornersofa.png",
-      "count": 1
-    }
-  ]
+  ] 
 }
